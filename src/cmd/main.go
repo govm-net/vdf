@@ -14,7 +14,7 @@ import (
 	"strconv"
 	"time"
 
-	"sqrt"
+	"github.com/govm-net/vdf/src/sqrt"
 )
 
 var (
